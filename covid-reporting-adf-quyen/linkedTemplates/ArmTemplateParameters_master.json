@@ -13,6 +13,12 @@
 		},
 		"ls_adls_covidreportingdl_properties_typeProperties_url": {
 			"value": "https://covidreportingdlquyen.dfs.core.windows.net/"
+		},
+		"containerUri": {
+			"value": ""
+		},
+		"containerSasToken": {
+			"value": ""
 		}
 	}
 }
