@@ -1,0 +1,9 @@
+{
+	"name": "covid-reporting-adf-quyen",
+	"location": "southeastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a75fb016-b5ff-418b-bc5a-de49060be4be",
+		"tenantId": "9614a7de-db85-4386-98ec-f96647051352"
+	}
+}
