@@ -1,0 +1,17 @@
+{
+	"name": "tr_ingest_ecdc_data",
+	"properties": {
+		"annotations": [],
+		"runtimeState": "Stopped",
+		"pipelines": [],
+		"type": "ScheduleTrigger",
+		"typeProperties": {
+			"recurrence": {
+				"frequency": "Day",
+				"interval": 1,
+				"startTime": "2026-03-31T10:20:00",
+				"timeZone": "SE Asia Standard Time"
+			}
+		}
+	}
+}
